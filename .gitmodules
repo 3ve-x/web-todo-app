@@ -1,0 +1,3 @@
+[submodule "conf/web"]
+	path = conf/web
+	url = git@github.com:3ve-x/web-todo-app.git
